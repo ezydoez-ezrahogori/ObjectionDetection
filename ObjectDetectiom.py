@@ -1,5 +1,5 @@
 import cv2
-import numpy as npo
+import numpy as np
 import imutils
 import time
 import  math
